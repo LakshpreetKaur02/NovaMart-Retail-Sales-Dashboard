@@ -41,3 +41,17 @@ Download the `.pbix` file and open it using **Microsoft Power BI Desktop** to ex
 ## 📌 Project Purpose
 
 The purpose of this project is to transform retail sales data into an interactive business dashboard that makes sales and profitability information easier to analyze and understand.
+
+## 💡 Key Insights
+
+The dashboard provides an interactive view of NovaMart's retail sales performance and supports analysis of:
+
+* Overall sales and profitability performance
+* Profit margin and order-level performance
+* Product and category-level results
+* Regional sales performance
+* Customer and sales trends
+* Business performance through interactive Power BI visualizations
+
+These insights can help identify areas of strong performance and support data-driven retail business decisions.
+
