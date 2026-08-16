@@ -98,3 +98,12 @@ NovaMart-Retail-Sales-Dashboard/
 * Enabled analysis across products, categories, regions, and customers
 * Applied data preparation and analytical techniques using Power Query and DAX
 * Designed a business-focused dashboard to support data-driven decision-making
+
+## 📊 Data Source
+
+The dashboard was developed using the included Excel dataset:
+
+`NovaMart_Retail_Sales_Data.xlsx`
+
+The dataset serves as the source data for the retail sales analysis presented in the Power BI dashboard.
+
