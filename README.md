@@ -59,6 +59,17 @@ The dashboard provides an interactive view of NovaMart's retail performance, com
 The purpose of this project is to transform retail sales data into an interactive business dashboard that makes sales and profitability information easier to analyze and understand.
 
 
+## 📈 Key Metrics
+
+| Metric                   |                 Value |
+| ------------------------ | --------------------: |
+| **Total Sales**          |           **₹32.37M** |
+| **Customers**            |               **304** |
+| **Products**             |               **130** |
+| **Top Region**           |   **South — ₹10.40M** |
+| **Top Customer Segment** | **Consumer — 37.93%** |
+
+
 ## 💡 Key Insights
 
 The dashboard highlights several key patterns in NovaMart's retail performance:
