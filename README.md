@@ -29,10 +29,12 @@ The Power BI dashboard includes visual analysis of:
 
 ## 📁 Project Files
 
-| File                                  | Description                     |
-| ------------------------------------- | ------------------------------- |
-| `NovaMart_Retail_Sales_Analysis.pbix` | Power BI dashboard and analysis |
-| `NovaMart_Retail_Sales_Dashboard.png` | Dashboard preview               |
+| File                                  | Description                                  |
+| ------------------------------------- | -------------------------------------------- |
+| `NovaMart_Retail_Sales_Analysis.pbix` | Power BI dashboard and analysis              |
+| `NovaMart_Retail_Sales_Dashboard.png` | Dashboard preview                            |
+| `NovaMart_Retail_Sales_Data.xlsx`     | Original Excel dataset used for the analysis |
+
 
 ## 🚀 How to View
 
