@@ -18,15 +18,13 @@ The dashboard provides a visual overview of sales performance and helps analyze 
 
 ## 🎯 Dashboard
 
-The Power BI dashboard includes visual analysis of:
+### Dashboard Preview
 
-* Sales performance
-* Profit performance
-* Profit margin
-* Orders
-* Product and category performance
-* Regional sales performance
-* Customer and sales trends
+<p align="center">
+  <img src="NovaMart_Retail_Sales_Dashboard.png" alt="NovaMart Retail Sales Dashboard" width="100%">
+</p>
+
+The dashboard provides an interactive view of NovaMart's retail performance, combining key sales and profitability metrics with product, customer, regional, payment, and order analysis.
 
 ## 🛠️ Tools Used
 
