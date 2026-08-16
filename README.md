@@ -168,3 +168,14 @@ The dashboard was designed to help answer questions such as:
 * Which payment methods are most commonly used?
 * What is the distribution of orders across different order statuses?
 * Where are the strongest opportunities for improving retail performance?
+
+
+## 👤 Author
+
+**Lakshpreet Kaur**
+
+Data Analyst | Business Intelligence | Power BI
+
+This project was created as part of my data analytics portfolio to demonstrate skills in data preparation, business intelligence, data visualization, and dashboard development.
+
+⭐ If you found this project useful or interesting, feel free to explore the repository.
