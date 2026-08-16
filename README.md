@@ -55,3 +55,14 @@ The dashboard provides an interactive view of NovaMart's retail sales performanc
 
 These insights can help identify areas of strong performance and support data-driven retail business decisions.
 
+## 🧰 Skills & Techniques Demonstrated
+
+* Data visualization and dashboard design
+* Business intelligence reporting
+* KPI development and analysis
+* Interactive filtering and data exploration
+* Sales and profitability analysis
+* Power Query for data preparation
+* DAX for analytical calculations
+* Power BI data modeling and visualization
+
