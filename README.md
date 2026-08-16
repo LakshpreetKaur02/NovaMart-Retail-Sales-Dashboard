@@ -85,6 +85,10 @@ The dashboard highlights several key patterns in NovaMart's retail performance:
 
 
 ## 🧰 Skills & Techniques Demonstrated
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0F766E?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1D4ED8?style=for-the-badge)
+![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-7C3AED?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-B45309?style=for-the-badge)
 
 * Data visualization and dashboard design
 * Business intelligence reporting
