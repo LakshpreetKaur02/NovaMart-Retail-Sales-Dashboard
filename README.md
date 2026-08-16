@@ -53,18 +53,16 @@ The purpose of this project is to transform retail sales data into an interactiv
 
 ## 💡 Key Insights
 
-Based on the dashboard analysis, the following insights can be observed:
+The dashboard highlights several key patterns in NovaMart's retail performance:
 
-* **Total Sales:** NovaMart generated approximately **₹32.37M** in total sales.
-* **Customer Base:** The dashboard covers **304 customers** across the available sales data.
-* **Product Portfolio:** The analysis includes **130 products**.
-* **Regional Performance:** The **South region** is the largest contributor to sales at approximately **₹10.40M (32.1%)**, followed by **North at ₹9.28M (28.68%)**.
-* **Customer Segments:** **Consumer customers** contribute the largest share of sales at approximately **₹12M (37.93%)**, followed by **Small Business at ₹10M (31.78%)** and **Corporate at ₹10M (30.29%)**.
-* **Product Performance:** The dashboard highlights the top-performing products based on sales and profit, including products such as **Webcam 1, T-Shirt 5, Bluetooth Speaker, Notebook 5, and Bottle 3**.
-* **Category Performance:** Sales and profit are compared across categories to identify categories contributing strongly to overall business performance.
-* **Payment Analysis:** Sales are also segmented by payment mode, including **UPI, Wallet, Debit Card, Net Banking, Credit Card, and Cash**.
-* **Monthly Trends:** Monthly sales and profit trends provide visibility into changes in performance throughout the year.
-* **Order Status:** The dashboard compares delivered, shipped, processing, and cancelled orders to provide an overview of order performance.
+* **₹32.37M in Total Sales** — The business generated approximately ₹32.37M in sales across the available dataset.
+* **South Leads Regional Sales** — The South region contributed approximately **₹10.40M (32.1%)**, making it the strongest-performing region.
+* **Consumer Segment Leads** — Consumer customers accounted for approximately **37.93% of total sales**, followed by Small Business (**31.78%**) and Corporate (**30.29%**).
+* **130 Products Analyzed** — The dashboard evaluates performance across a portfolio of 130 products.
+* **304 Customers Covered** — Customer-level analysis provides visibility into purchasing and sales performance.
+* **Product-Level Performance** — The dashboard identifies high-performing products, including **Webcam 1, T-Shirt 5, Bluetooth Speaker, Notebook 5, and Bottle 3**.
+* **Monthly Performance Trends** — Monthly sales and profit analysis helps identify changes in business performance over time.
+* **Order & Payment Analysis** — Order status and payment methods are analyzed to provide a broader view of the retail sales operation.
 
 ## 🧰 Skills & Techniques Demonstrated
 
