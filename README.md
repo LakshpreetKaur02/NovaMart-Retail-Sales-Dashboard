@@ -66,3 +66,20 @@ These insights can help identify areas of strong performance and support data-dr
 * DAX for analytical calculations
 * Power BI data modeling and visualization
 
+## 📂 Project Structure
+
+```text
+NovaMart-Retail-Sales-Dashboard/
+│
+├── NovaMart_Retail_Sales_Analysis.pbix
+├── NovaMart_Retail_Sales_Dashboard.png
+├── README.md
+└── .gitignore
+```
+
+### File Description
+
+* **`.pbix`** — Power BI dashboard containing the analysis and visualizations
+* **`.png`** — Static preview of the completed dashboard
+* **`README.md`** — Project documentation and overview
+* **`.gitignore`** — Prevents unnecessary local files from being committed
