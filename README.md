@@ -10,11 +10,13 @@
 
 ![NovaMart Retail Sales Dashboard](NovaMart_Retail_Sales_Dashboard.png)
 
+
 ## 📊 Project Overview
 
 This project presents an interactive **Power BI dashboard for NovaMart retail sales analysis**.
 
 The dashboard provides a visual overview of sales performance and helps analyze key business metrics across the available sales data.
+
 
 ## 🎯 Dashboard
 
@@ -26,12 +28,14 @@ The dashboard provides a visual overview of sales performance and helps analyze 
 
 The dashboard provides an interactive view of NovaMart's retail performance, combining key sales and profitability metrics with product, customer, regional, payment, and order analysis.
 
+
 ## 🛠️ Tools Used
 
 * **Power BI**
 * **Power Query**
 * **DAX**
 * **Data Visualization**
+
 
 ## 📁 Project Files
 
@@ -49,9 +53,11 @@ The dashboard provides an interactive view of NovaMart's retail performance, com
 3. Interact with the dashboard visuals and filters to explore the available sales and profitability analysis.
 4. Use `NovaMart_Retail_Sales_Dashboard.png` for a quick preview of the dashboard without opening Power BI.
 
+
 ## 📌 Project Purpose
 
 The purpose of this project is to transform retail sales data into an interactive business dashboard that makes sales and profitability information easier to analyze and understand.
+
 
 ## 💡 Key Insights
 
@@ -66,6 +72,7 @@ The dashboard highlights several key patterns in NovaMart's retail performance:
 * **Monthly Performance Trends** — Monthly sales and profit analysis helps identify changes in business performance over time.
 * **Order & Payment Analysis** — Order status and payment methods are analyzed to provide a broader view of the retail sales operation.
 
+
 ## 🧰 Skills & Techniques Demonstrated
 
 * Data visualization and dashboard design
@@ -76,6 +83,7 @@ The dashboard highlights several key patterns in NovaMart's retail performance:
 * Power Query for data preparation
 * DAX for analytical calculations
 * Power BI data modeling and visualization
+
 
 ## 📂 Project Structure
 
@@ -97,6 +105,7 @@ NovaMart-Retail-Sales-Dashboard/
 * **`README.md`** — Project documentation and overview
 * **`.gitignore`** — Prevents unnecessary local files from being committed
 
+
 ## ⭐ Project Highlights
 
 * Built an interactive retail sales dashboard using Power BI
@@ -105,6 +114,7 @@ NovaMart-Retail-Sales-Dashboard/
 * Applied data preparation and analytical techniques using Power Query and DAX
 * Designed a business-focused dashboard to support data-driven decision-making
 
+
 ## 📊 Data Source
 
 The dashboard was developed using the included Excel dataset:
@@ -112,6 +122,7 @@ The dashboard was developed using the included Excel dataset:
 `NovaMart_Retail_Sales_Data.xlsx`
 
 The dataset serves as the source data for the retail sales analysis presented in the Power BI dashboard.
+
 
 ## 🔄 Project Workflow
 
