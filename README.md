@@ -115,3 +115,19 @@ The dashboard was developed using the included Excel dataset:
 
 The dataset serves as the source data for the retail sales analysis presented in the Power BI dashboard.
 
+## 🔄 Project Workflow
+
+**1. Data Source**
+Excel dataset containing the NovaMart retail sales data.
+
+**2. Data Preparation**
+Data was prepared for analysis using Power Query.
+
+**3. Data Analysis**
+DAX was used to create analytical calculations and KPIs.
+
+**4. Dashboard Development**
+Power BI was used to build interactive visualizations and business-focused reports.
+
+**5. Business Insights**
+Sales, profit, customers, products, regions, payment methods, and order performance were analyzed to identify meaningful business patterns.
