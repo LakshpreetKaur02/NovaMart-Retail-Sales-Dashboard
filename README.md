@@ -1,8 +1,12 @@
 # NovaMart Retail Sales Analysis Dashboard
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=111111\&labelColor=1F2937)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=FFFFFF\&labelColor=173B2A)](https://www.microsoft.com/microsoft-365/excel)
-[![DAX](https://img.shields.io/badge/DAX-2563EB?style=for-the-badge\&labelColor=172554\&color=3B82F6)](https://learn.microsoft.com/dax/)
-[![Power%20Query](https://img.shields.io/badge/Power%20Query-7C3AED?style=for-the-badge\&labelColor=2E1065\&color=8B5CF6)](https://learn.microsoft.com/power-query/)
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=111111)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=FFFFFF)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge\&logoColor=FFFFFF)
+![DAX](https://img.shields.io/badge/DAX-2563EB?style=for-the-badge\&logoColor=FFFFFF)
+
+</p>
 
 ![NovaMart Retail Sales Dashboard](NovaMart_Retail_Sales_Dashboard.png)
 
