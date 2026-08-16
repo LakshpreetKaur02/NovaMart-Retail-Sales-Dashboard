@@ -1,7 +1,7 @@
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Preparation-purple?style=for-the-badge)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Soft%20Gold?style=for-the-badge\&logo=powerbi\&logoColor=8A6D00\&labelColor=FFF4C2\&color=FFFBEA)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-Soft%20Green?style=for-the-badge\&logo=microsoftexcel\&logoColor=176B3A\&labelColor=DDF5E5\&color=F3FCF6)](https://www.microsoft.com/microsoft-365/excel)
+[![DAX](https://img.shields.io/badge/DAX-Soft%20Blue?style=for-the-badge\&labelColor=DCEBFF\&color=F3F8FF)](https://learn.microsoft.com/dax/)
+[![Power%20Query](https://img.shields.io/badge/Power%20Query-Soft%20Purple?style=for-the-badge\&labelColor=E9DFFF\&color=FAF7FF)](https://learn.microsoft.com/power-query/)
 
 # NovaMart Retail Sales Analysis Dashboard
 
