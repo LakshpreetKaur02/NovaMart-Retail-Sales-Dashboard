@@ -78,6 +78,7 @@ NovaMart-Retail-Sales-Dashboard/
 │
 ├── NovaMart_Retail_Sales_Analysis.pbix
 ├── NovaMart_Retail_Sales_Dashboard.png
+├── NovaMart_Retail_Sales_Data.xlsx
 ├── README.md
 └── .gitignore
 ```
@@ -86,6 +87,7 @@ NovaMart-Retail-Sales-Dashboard/
 
 * **`.pbix`** — Power BI dashboard containing the analysis and visualizations
 * **`.png`** — Static preview of the completed dashboard
+* **`.xlsx`** — Original Excel dataset used for the analysis
 * **`README.md`** — Project documentation and overview
 * **`.gitignore`** — Prevents unnecessary local files from being committed
 
