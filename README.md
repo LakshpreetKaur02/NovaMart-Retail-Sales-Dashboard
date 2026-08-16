@@ -36,7 +36,10 @@ The Power BI dashboard includes visual analysis of:
 
 ## 🚀 How to View
 
-Download the `.pbix` file and open it using **Microsoft Power BI Desktop** to explore the interactive dashboard.
+1. Download `NovaMart_Retail_Sales_Analysis.pbix` from this repository.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Interact with the dashboard visuals and filters to explore the available sales and profitability analysis.
+4. Use `NovaMart_Retail_Sales_Dashboard.png` for a quick preview of the dashboard without opening Power BI.
 
 ## 📌 Project Purpose
 
