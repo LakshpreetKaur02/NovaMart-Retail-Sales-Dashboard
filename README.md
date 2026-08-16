@@ -151,3 +151,16 @@ Power BI was used to build interactive visualizations and business-focused repor
 
 **5. Business Insights**
 Sales, profit, customers, products, regions, payment methods, and order performance were analyzed to identify meaningful business patterns.
+
+
+## 🎯 Business Questions
+
+The dashboard was designed to help answer questions such as:
+
+* Which regions contribute the most to overall sales?
+* Which customer segments generate the highest sales?
+* Which products perform best in terms of sales and profit?
+* How do sales and profit change over time?
+* Which payment methods are most commonly used?
+* What is the distribution of orders across different order statuses?
+* Where are the strongest opportunities for improving retail performance?
