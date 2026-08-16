@@ -1,3 +1,4 @@
+# NovaMart Retail Sales Analysis Dashboard
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=111111)
@@ -6,9 +7,6 @@
 ![DAX](https://img.shields.io/badge/DAX-2563EB?style=for-the-badge\&logoColor=FFFFFF)
 
 </p>
-
-# NovaMart Retail Sales Analysis Dashboard
-![Retail Analytics](https://img.shields.io/badge/Project-Retail%20Analytics-0F766E?style=for-the-badge\&logoColor=white)
 
 ![NovaMart Retail Sales Dashboard](NovaMart_Retail_Sales_Dashboard.png)
 
